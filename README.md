@@ -1,13 +1,10 @@
-#图片画廊
-
-###在线演示: https://pinmingkenan.github.io/gallery-by-react/
 
 ##安装运行
 
 * 安装node.js环境
 * 安装ruby环境
 * 使用yeoman、webpack
-* 安装yeoman: npm install -g yo
+* 安装yeoman: npm install -g yo grunt bower
 * 安装yeoman模板: npm install -g generator-react-webpack
 * 自动生成项目: yo react-webpack gallery-by-react 
 * 安装项目所有的依赖类库: npm install 
